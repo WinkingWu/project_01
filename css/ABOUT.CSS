@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+
+
+.middle .right_con .content>img{float: left;margin-right: 16px;}
+.middle .right_con .content p{color: #707070;text-indent: 2em;line-height: 20px;margin-bottom: 4px;}
