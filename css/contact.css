@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.middle .left_con .serach{margin-top: 0px;}
+.middle .left_con .serach .title{height: 64px;background: #05561b;}
+.middle .left_con .serach .title h3{font-size: 16px;padding-top:4px;margin-bottom: -8px;font-weight: normal;}
+.middle .left_con .serach .public{margin-top:18px ;background-color: #ffffff;}
+.middle .left_con .serach .public img{margin-bottom: 10px;}
+.middle .left_con .serach .public p{font-size: 16px;line-height: 24px;}
+
+.middle .right_con .title h2{margin: 0 0 6px 80px;}
+.middle .right_con .contact_con {font-size: 14px;margin:0 18px 80px 60px;}
+.middle .right_con .contact_con ol{float: left;width: 480px;}
+.middle .right_con .contact_con li{clear: both;margin-bottom: 12px;}
+.middle .right_con .contact_con li img{float: left;}
+.middle .right_con .contact_con li p{line-height: 36px;text-indent: 20px;}
+.middle .right_con .contact_con form{float: right;line-height: 35px;}
+.middle .right_con .contact_con input{width: 416px;height: 40px;border: 1px solid #c4c4c4;margin-bottom: 10px;padding:0 2px;outline: none;line-height: 40px;}
+.middle .right_con .contact_con input#code{width: 108px;height: 35px;}
+.middle .right_con .contact_con form img{position: relative;top: 12px;margin: 0 20px 0 10px;}
+.middle .right_con .contact_con textarea{width: 416px;height: 108px;resize: none;border: 1px solid #c4c4c4;padding:0 2px;margin-bottom: 8px;line-height: 20px;overflow: hidden;}
+.middle .right_con .contact_con button{width: 95px;height: 30px;margin-top:10px;border: none;background-color: #909090;cursor: pointer;color: #ffffff;margin-right: 10px;}
+.middle .right_con .contact_con button:hover{background-color:#3c9cd3 ;}
+.middle .right_con .contact_con iframe{float: left;border: none;width: 442px;height: 208px;}
